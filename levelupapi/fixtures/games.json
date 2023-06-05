@@ -1,0 +1,14 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Chess",
+            "maker": "Chess.com",
+            "number_of_players": 2,
+            "skill_level": 1,
+            "game_type": 1,
+            "gamer": 1
+        }
+    }
+]

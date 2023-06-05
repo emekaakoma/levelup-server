@@ -1,0 +1,14 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "description": "You play with 16 pieces on the board and the goal is to get a checkmate",
+            "date": "2023-05-01",
+            "time": "2:00",
+            "organizer": 1,
+            "game": 1
+        }
+    }
+]
+
